@@ -6,3 +6,4 @@
 [ sistema de video ](/protocolos/sistema-de-video)
 [ clientes web - servidor votación ](/protocolos/clientes-web-server-votacion-recinto)
 [ banca - server ](/protocolos/bancas-server-recinto)
+[ Banca - Biometrico](/protocolos/comunicacion-biometrico)
