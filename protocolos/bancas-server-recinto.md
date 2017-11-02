@@ -1,6 +1,9 @@
 <!-- TITLE: Bancas Server Recinto -->
 <!-- SUBTITLE: A quick summary of Bancas Server Recinto -->
 
+# Header
+# Protocolo de comunicación Bancas-Server #
+
 #Protocolo de comunicación Bancas:
 
 *Definimos el protocolo de las bancas de la siguiente manera:*
