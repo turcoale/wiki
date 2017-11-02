@@ -3,9 +3,7 @@
 
 # Header
 
-############################################
 # ######Configuracion DNS##################### #
-############################################
 
 Servidor utilizado: dnsmasq
 archivo de conf principal: /etc/dnsmasq.conf
@@ -15,9 +13,7 @@ Comandos de interes:
 -service dnsmasq (restart/stop/start)
 -nslookup nombreDeDominio
 
-############################################
 ## ##### config en /etc/hosts ##
-############################################
 
 
 ```
@@ -47,9 +43,8 @@ Comandos de interes:
 
 ```
 
-############################################
+
 ## ##### config en /etc/dnsmasq.conf ##
-############################################
 
 ##DNS externas
 resolv-file=/etc/resolv.conf.dnsmasq
@@ -62,9 +57,8 @@ except-interface=em2
 ### agrega nombres simples para el dominio:
 expand-hosts
 
-############################################
 # ######Configuracion DHCP#################### #
-############################################
+
 
 Servidor utilizado: dnsmasq
 archivo de conf principal: /etc/dnsmasq.conf
@@ -73,9 +67,9 @@ Comandos de interes:
 -service dnsmasq (restart/stop/start)
 -arp ("-a" o "-f /etc/ethers") mac ip dominio asociados.
 
-############################################
+
 ## ##### config en /etc/dnsmasq.conf ##
-############################################
+
 ### carga archivo de configuracion con mac->dominio en /etc/ethers
 read-ethers
 ### configura el nombre simple para el dominio:
@@ -85,9 +79,9 @@ dhcp-range=10.0.0.10,10.0.0.20,255.0.0.0,12h
 ### se incluye un archivo de configuracion distinto para el seteo mac->ip
 conf-file=/etc/dnsmasq.more.macIp.conf
 
-############################################
+
 ## ##### config en /etc/dnsmasq.more.macIp.conf ##
-############################################
+
 ######## DHCP SERVER DNSMASQ
 ################################### equipos  mac/ip
 ## se detalla mac,ip
