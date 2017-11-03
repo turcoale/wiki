@@ -12,6 +12,8 @@
 [ Redes ](/redes)
 
 # Pases:
+[ Pases ](/pases)
+
 
 
 
