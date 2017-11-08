@@ -25,7 +25,7 @@ usuario:nodeUser
 pwd:k.l21-4,s.1
 
 debería ser el usuario en db en producción.
-----
+
 
 ## ServerBackup
 -----
