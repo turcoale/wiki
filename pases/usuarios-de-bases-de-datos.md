@@ -2,8 +2,6 @@
 <!-- SUBTITLE: A quick summary of Usuarios De Bases De Datos -->
 
 # Header
------
-
 ## Server
 ----
 **DBs:** 1. DBCamaraTest
