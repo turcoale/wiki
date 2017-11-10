@@ -7,7 +7,7 @@
 # Sistema de Audio:
 
 # Sistema de video:
-
+[ Video](/sistema-de-video)
 # Conectividad:
 [ Redes ](/redes)
 
