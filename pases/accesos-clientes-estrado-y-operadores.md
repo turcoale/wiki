@@ -29,3 +29,4 @@ Contraseña: T3c010g1a
 **DVR camara**
 Usuario: Admin
 Contraseña: Tecnologia2017
+-----
