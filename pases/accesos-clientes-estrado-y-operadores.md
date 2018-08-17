@@ -34,3 +34,7 @@ Contraseña: Tecnologia2017
 Usuario: Huellas
 Contraseña: Hu311as
 -----
+**PC sonido**
+Usuario: 
+Contraseña: sonido
+-----
