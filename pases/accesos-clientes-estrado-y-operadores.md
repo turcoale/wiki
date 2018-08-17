@@ -23,6 +23,7 @@ Usuario: Microfonista
 Contraseña: estradomicrofonista
 -----
 **Crosschex**
+Notebook Alejandro
 Usuario: Tecnologia
 Contraseña: T3c010g1a
 -----
@@ -31,7 +32,7 @@ Usuario: Admin
 Contraseña: Tecnologia2017
 -----
 **Router huellas**
-Usuario: Huellas
+Usuario: huellas
 Contraseña: Hu311as2018
 -----
 **PC sonido**
