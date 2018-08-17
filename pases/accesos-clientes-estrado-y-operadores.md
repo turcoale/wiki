@@ -22,3 +22,10 @@ Contraseña: operador
 Usuario: Microfonista
 Contraseña: estradomicrofonista
 -----
+**Crosschex**
+Usuario: Tecnologia
+Contraseña: T3c010g1a
+-----
+**DVR camara**
+Usuario: Admin
+Contraseña: Tecnologia2017
