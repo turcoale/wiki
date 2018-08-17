@@ -30,9 +30,9 @@ Contraseña: T3c010g1a
 Usuario: Admin
 Contraseña: Tecnologia2017
 -----
-**Router Mantenimiento**
+**Router huellas**
 Usuario: Huellas
-Contraseña: Hu311as
+Contraseña: Hu311as2018
 -----
 **PC sonido**
 Usuario: 
