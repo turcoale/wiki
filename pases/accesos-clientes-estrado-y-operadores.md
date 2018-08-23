@@ -1,4 +1,4 @@
-<!-- TITLE: Pases -->
+[Base De Datos Biometricos](/uploads/base-de-datos-biometricos.xls "Base De Datos Biometricos")<!-- TITLE: Pases -->
 <!-- SUBTITLE: Usuarios - Contraseñas -->
 
 # Pases
